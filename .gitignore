@@ -1,0 +1,25 @@
+# Keil build output
+Objects/
+Listings/
+*.o
+*.d
+*.axf
+*.hex
+*.map
+*.lst
+*.htm
+*.dep
+*.lnp
+*.sct
+*.dbgconf
+*.lyl
+
+# Python runtime output
+__pycache__/
+*.py[cod]
+上位机/数据记录/
+上位机/数据集/
+模型训练/*.json
+模型训练/*.npy
+模型训练/*.npz
+模型训练/*.png
